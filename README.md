@@ -1,7 +1,9 @@
 ## 👋 ¡Hola! Soy Ricardo Soto
 
 🎯 QA Engineer con experiencia sólida en el aseguramiento de calidad en entornos de desarrollo de software. Familiarizado con diversos tipos de pruebas manuales y con el uso de herramientas como Postman, Android Studio y SQL.
+
 🔧 Herramientas:
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 🚀 Apasionado por garantizar la calidad del software desde el inicio.
 
